@@ -17,4 +17,4 @@ I work on market design, mechanism design, and industrial organization.  My rese
 
 I have a two-word first name, "Zi Yang"; my last name is "Kang."  
 
-You can download my CV <a href="/files/cv.pdf" style="text-decoration:none">here</a>.
+You can download my CV <a href="/files/CV.pdf" style="text-decoration:none">here</a>.
