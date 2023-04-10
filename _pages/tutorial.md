@@ -3,6 +3,7 @@ layout: single
 title: "EC '23 Tutorial: Partial Mechanism Design"
 permalink: /ec'23-tutorial
 author_profile: false
+menu_label: "Toggle Menu"
 sidebar:
   nav: "tutorial"
 
