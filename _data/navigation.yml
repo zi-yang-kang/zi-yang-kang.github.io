@@ -6,4 +6,28 @@ main:
   - title: "research"
     url: /research/    
  
-    
+tutorial:
+  - title: "EC '23 Tutorial"
+    children:
+      - title: "Overview"
+        url: /ec'23-tutorial#
+      - title: "Target Audience"
+        url: /ec'23-tutorial#target-audience
+      - title: "Prerequisites"
+        url: /ec'23-tutorial#prerequisites
+      - title: "Structure"
+        url: /ec'23-tutorial#structure
+      - title: "Materials"
+        url: /ec'23-tutorial#materials
+  - title: "References"
+    children:
+      - title: "Key Papers"
+        url: /ec'23-tutorial#key-papers
+      - title: "Related Papers"
+        url: /ec'23-tutorial#related-papers
+  - title: "About Us"
+    children:
+      - title: "Zi Yang Kang"
+        url: /
+      - title: "Ellen Muir"
+        url: https://ellenmuir.net/
