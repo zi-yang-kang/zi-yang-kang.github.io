@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "<u>EC '23 Tutorial</u>:  Partial Mechanism Design and <br/><br/> Incomplete-Information Industrial Organization"
+title: "EC '23 Tutorial:  Partial Mechanism Design and Incomplete-Information Industrial Organization"
 permalink: /ec'23-tutorial
 author_profile: false
 sidebar:
