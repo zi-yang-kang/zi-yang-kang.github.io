@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "EC '23 Tutorial:  Partial Mechanism Design and Incomplete-Information Industrial Organization"
+title: "EC '23 Tutorial"
 permalink: /ec'23-tutorial
 author_profile: false
 sidebar:
@@ -12,6 +12,8 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+# Partial Mechanism Design and Incomplete-Information Industrial Organization
 
 <br>
 Equilibrium effects play an important role in mechanism design applications. These effects arise when a mechanism designer does not control the entire market, and as such we refer to this as a problem of *partial* mechanism design. For example, the design of public housing policy must account for its equilibrium impact on the private housing market. After all, the set of consumers who apply for public housing depends on the prices of private apartments, while the set of consumers who participate in the private market (and hence the prices in the private market) depends on the mechanism for allocating public housing. Equilibrium effects can substantially influence the optimal structure of mechanisms.  
