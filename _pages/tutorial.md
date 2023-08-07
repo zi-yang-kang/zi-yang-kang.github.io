@@ -52,7 +52,7 @@ This tutorial consists of two 45-minute sessions:
 
 ## Materials
 
-*Coming soon!*
+Slides are available <a href="/files/EC_tutorial.pdf" style="text-decoration:none">here</a>.
 
 <br>
 
