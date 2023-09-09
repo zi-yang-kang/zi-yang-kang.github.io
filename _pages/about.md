@@ -17,7 +17,7 @@ I recently taught a tutorial with <a href="https://ellenmuir.net" style="text-de
 # About me
 ---
 
-I am a Postdoctoral Fellow at the <a href="https://cmsa.fas.harvard.edu/" style="text-decoration:none">Center of Mathematical Sciences at Harvard University</a>.
+I am a Postdoctoral Fellow at the <a href="https://cmsa.fas.harvard.edu/" style="text-decoration:none">Center of Mathematical Sciences and Applications at Harvard University</a>.
 
 I work on market design, mechanism design, and industrial organization.  My research applies a theoretical lens to policy design and evaluation.
 
