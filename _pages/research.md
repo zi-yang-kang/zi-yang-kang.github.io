@@ -57,7 +57,7 @@ Economists routinely make functional form assumptions about consumer demand to o
 
 ___
 
-## <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3586050" style="text-decoration:none">Optimal Indirect Regulation of Externalities</a>&nbsp; [PDF](/files/indirect.pdf){: .btn--research}
+## <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3586050" style="text-decoration:none">Optimal Indirect Regulation of Externalities</a>&nbsp; [PDF](/files/indirect.pdf){: .btn--research} &nbsp; [Slides (short)](/files/OIRE_talk_short.pdf){: .btn--research}
 
 <font size="3">
 <b>October 2022</b><br>
