@@ -16,6 +16,27 @@ Jump to: &nbsp; <a href="#working-papers" style="text-decoration:none"><b>Workin
 # Working Papers
 ___
 
+## <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3586050" style="text-decoration:none">Optimal Indirect Regulation of Externalities</a>&nbsp; [PDF](/files/indirect.pdf){: .btn--research} &nbsp; [Slides (short)](/files/OIRE_talk_short.pdf){: .btn--research}
+
+<font size="3">
+<b>October 2023</b><br>
+</font>
+
+<BUTTON ID="abstract_oire_show" CLASS="btn" ONCLICK="document.getElementById('abstract_oire_show').style.display='none'; document.getElementById('abstract_oire_hide').style.display='block'; document.getElementById('abstract_oire').style.display='block'">
+<i class="fa fa-list-alt" aria-hidden="true"></i>&nbsp; abstract&nbsp;  <i class="fa fa-angle-double-down" aria-hidden="true"></i>
+</BUTTON>
+<BUTTON ID="abstract_oire_hide" CLASS="btn" STYLE="display:none" ONCLICK=" document.getElementById('abstract_oire_show').style.display='block'; document.getElementById('abstract_oire_hide').style.display='none'; document.getElementById('abstract_oire').style.display='none'">
+<i class="fa fa-list-alt" aria-hidden="true"></i>&nbsp; abstract&nbsp;  <i class="fa fa fa-angle-double-up" aria-hidden="true"></i>
+</BUTTON>
+
+<DIV ID="abstract_oire" STYLE="display:none">
+<font size="3">
+This paper studies the regulation of a good that generates different amounts of an externality on consumption, but direct taxation of the externality is infeasible.  Under certain conditions, I show that the deadweight loss due to any (possibly nonlinear) tax on the good is equal to the Bregman divergence between the allocation that the tax induces and the first-best allocation.  This yields a regression-based method to derive the tax that minimizes deadweight loss in any family of taxes.  I use this method to characterize the second-best nonlinear tax and show that quantity restrictions, such as bans and mandates, can be optimal.  I quantify the welfare gains of using a nonlinear tax over a linear tax.  Finally, I illustrate policy implications by applying my results to the taxation of vehicle miles traveled to regulate automobile externalities.
+</font>
+</DIV> 
+
+___
+
 ## <a href="/files/jmp.pdf" style="text-decoration:none">The Public Option and Optimal Redistribution</a>&nbsp; [PDF](/files/jmp.pdf){: .btn--research}
 
 <font size="3">
@@ -52,27 +73,6 @@ ___
 <DIV ID="abstract_rbwa" STYLE="display:none">
 <font size="3">
 Economists routinely make functional form assumptions about consumer demand to obtain welfare estimates. How sensitive are welfare estimates to these assumptions? We answer this question by providing bounds on welfare that hold for families of demand curves commonly considered in different literatures. We show that commonly chosen functional forms, such as linear, exponential, and CES demand, are extremal in different families: they yield either the highest or lowest welfare estimate among all demand curves in those families. To illustrate our approach, we apply our results to the welfare analysis of energy subsidies, trade tariffs, pensions, and income taxation.
-</font>
-</DIV> 
-
-___
-
-## <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3586050" style="text-decoration:none">Optimal Indirect Regulation of Externalities</a>&nbsp; [PDF](/files/indirect.pdf){: .btn--research} &nbsp; [Slides (short)](/files/OIRE_talk_short.pdf){: .btn--research}
-
-<font size="3">
-<b>October 2022</b><br>
-</font>
-
-<BUTTON ID="abstract_oire_show" CLASS="btn" ONCLICK="document.getElementById('abstract_oire_show').style.display='none'; document.getElementById('abstract_oire_hide').style.display='block'; document.getElementById('abstract_oire').style.display='block'">
-<i class="fa fa-list-alt" aria-hidden="true"></i>&nbsp; abstract&nbsp;  <i class="fa fa-angle-double-down" aria-hidden="true"></i>
-</BUTTON>
-<BUTTON ID="abstract_oire_hide" CLASS="btn" STYLE="display:none" ONCLICK=" document.getElementById('abstract_oire_show').style.display='block'; document.getElementById('abstract_oire_hide').style.display='none'; document.getElementById('abstract_oire').style.display='none'">
-<i class="fa fa-list-alt" aria-hidden="true"></i>&nbsp; abstract&nbsp;  <i class="fa fa fa-angle-double-up" aria-hidden="true"></i>
-</BUTTON>
-
-<DIV ID="abstract_oire" STYLE="display:none">
-<font size="3">
-In many markets ranging from gasoline to alcohol and vaccines, individuals generate different amounts of externalities that cannot be directly taxed. I study how such externalities should be optimally regulated. I characterize the optimal policy and show that it generally requires quantity surcharges and discounts. I evaluate the gain from using the optimal indirect policy rather than a uniform tax and show that it can be significant. I apply my results to gasoline taxes to demonstrate their policy implications. Finally, I incorporate distributional concerns and show how "non-market" solutions such as quantity floors and ceilings might be required.
 </font>
 </DIV> 
 
