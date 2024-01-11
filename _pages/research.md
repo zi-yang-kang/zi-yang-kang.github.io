@@ -19,7 +19,7 @@ ___
 ## <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3586050" style="text-decoration:none">Optimal Indirect Regulation of Externalities</a>&nbsp; [PDF](/files/indirect.pdf){: .btn--research} &nbsp; [Slides (short)](/files/OIRE_talk_short.pdf){: .btn--research}
 
 <font size="3">
-<b>December 2023</b><br>
+<b>January 2024</b><br>
 </font>
 
 <BUTTON ID="abstract_oire_show" CLASS="btn" ONCLICK="document.getElementById('abstract_oire_show').style.display='none'; document.getElementById('abstract_oire_hide').style.display='block'; document.getElementById('abstract_oire').style.display='block'">
