@@ -31,8 +31,7 @@ ___
 
 <DIV ID="abstract_oire" STYLE="display:none">
 <font size="3">
-This paper studies the regulation of a good that generates different amounts of an externality on consumption, but direct taxation of the externality is infeasible.  Under certain conditions, I show that the deadweight loss due to any (possibly nonlinear) tax on the good is equal to the Bregman divergence between the allocation that the tax induces and the first-best allocation.  This yields a regression-based method to derive the tax that minimizes deadweight loss in any family of taxes.  I use this method to characterize the second-best nonlinear tax and show that quantity restrictions, such as bans and mandates, can be optimal.  I quantify the welfare gains of using a nonlinear tax over a linear tax.  Finally, I illustrate policy implications by applying my results to the taxation of vehicle miles traveled to regulate automobile externalities.
-</font>
+This paper studies the regulation of a good that generates different amounts of an externality on consumption.  Direct taxation of the externality is assumed to be infeasible; instead, the good itself is taxed to indirectly regulate the externality.  I show that the deadweight loss due to any nonlinear tax on the good is equal to the Bregman divergence between the allocation that the tax induces and the first-best allocation.  This yields a regression-based method to derive the deadweight loss-minimizing tax.  I use this method to show that quantity controls, such as bans and mandates, can be optimal.  I quantify the welfare gains of using a nonlinear tax over a linear tax.  Finally, I illustrate policy implications by applying my results to the taxation of vehicle miles traveled to regulate automobile externalities.</font>
 </DIV> 
 
 ___
