@@ -83,11 +83,11 @@ author:
   name             : "Zi Yang Kang"
   avatar           : "kang.jpg"
   bio              : "Assistant Professor at the University of Toronto"
-  location         : "Max Gluskin House, 150 St. George Street"
+  location         : "150 St. George Street"
   employer         : "Toronto, ON M5S 3G7, Canada"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=Ju2ifz8AAAAJ"
-  email            : "zykang@cmsa.fas.harvard.edu"
+  email            : "zy.kang@utoronto.ca"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
