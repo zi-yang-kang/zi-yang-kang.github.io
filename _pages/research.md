@@ -16,7 +16,7 @@ Jump to: &nbsp; <a href="#working-papers" style="text-decoration:none"><b>Workin
 # Working Papers
 ___
 
-## <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3926399" style="text-decoration:none">Optimal In-Kind Redistribution</a> (with <a href="https://www.mitchellwatt.com/" style="text-decoration:none">Mitchell Watt</a>) &nbsp; [PDF](/files/OIKR.pdf){: .btn--research}
+## <a href="/files/OIKR.pdf" style="text-decoration:none">Optimal In-Kind Redistribution</a> (with <a href="https://www.mitchellwatt.com/" style="text-decoration:none">Mitchell Watt</a>) &nbsp; [PDF](/files/OIKR.pdf){: .btn--research}
 
 <font size="3">
 <b>September 2024</b>
@@ -31,7 +31,7 @@ ___
 
 <DIV ID="abstract_oikr" STYLE="display:none">
 <font size="3">
-This paper develops a model of in-kind redistribution where consumers consume in either a private market or a government-designed program, but not both.  We characterize when a social planner, who seeks to maximize weighted total surplus, can strictly improve on the laissez-faire outcome.  We show that the optimal mechanism consists of three components: a public option, nonlinear subsidies, and the laissez-faire allocation.  We quantify the resulting distortions and relate them to the correlation between consumer demand and welfare weights.  Our findings reveal that private market access limits the scope of in-kind redistribution but strengthens the rationale for non-market allocations.
+This paper develops a model of in-kind redistribution where consumers participate in either a private market or a government-designed program, but not both.  We characterize when a social planner, seeking to maximize weighted total surplus, can strictly improve upon the laissez-faire outcome.  We show that the optimal mechanism consists of three components: a public option, nonlinear subsidies, and laissez-faire consumption.  We quantify the resulting distortions and relate them to the correlation between consumer demand and welfare weights.  Our findings reveal that while private market access constrains the social planner's ability to redistribute, it also strengthens the rationale for non-market allocations.</font>
 </DIV> 
 
 ___
