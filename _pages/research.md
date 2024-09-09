@@ -16,6 +16,26 @@ Jump to: &nbsp; <a href="#working-papers" style="text-decoration:none"><b>Workin
 # Working Papers
 ___
 
+## <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3926399" style="text-decoration:none">Optimal In-Kind Redistribution</a> (with <a href="https://www.mitchellwatt.com/" style="text-decoration:none">Mitchell Watt</a>) &nbsp; [PDF](/files/OIKR.pdf){: .btn--research}
+
+<font size="3">
+<b>September 2024</b>
+</font>
+
+<BUTTON ID="abstract_oikr_show" CLASS="btn" ONCLICK="document.getElementById('abstract_oikr_show').style.display='none'; document.getElementById('abstract_oikr_hide').style.display='block'; document.getElementById('abstract_oikr').style.display='block'">
+<i class="fa fa-list-alt" aria-hidden="true"></i>&nbsp; abstract&nbsp;  <i class="fa fa-angle-double-down" aria-hidden="true"></i>
+</BUTTON>
+<BUTTON ID="abstract_oikr_hide" CLASS="btn" STYLE="display:none" ONCLICK=" document.getElementById('abstract_oikr_show').style.display='block'; document.getElementById('abstract_oikr_hide').style.display='none'; document.getElementById('abstract_oikr').style.display='none'">
+<i class="fa fa-list-alt" aria-hidden="true"></i>&nbsp; abstract&nbsp;  <i class="fa fa fa-angle-double-up" aria-hidden="true"></i>
+</BUTTON>
+
+<DIV ID="abstract_oikr" STYLE="display:none">
+<font size="3">
+This paper develops a model of in-kind redistribution where consumers consume in either a private market or a government-designed program, but not both.  We characterize when a social planner, who seeks to maximize weighted total surplus, can strictly improve on the laissez-faire outcome.  We show that the optimal mechanism consists of three components: a public option, nonlinear subsidies, and the laissez-faire allocation.  We quantify the resulting distortions and relate them to the correlation between consumer demand and welfare weights.  Our findings reveal that private market access limits the scope of in-kind redistribution but strengthens the rationale for non-market allocations.
+</DIV> 
+
+___
+
 ## <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3926399" style="text-decoration:none">Robustness Measures for Welfare Analysis</a> (with <a href="https://shoshanavasserman.com/" style="text-decoration:none">Shosh Vasserman</a>) &nbsp; [PDF](/files/RMWA.pdf){: .btn--research} &nbsp; [NBER](https://www.nber.org/papers/w29656){: .btn--research} &nbsp; [Twitter](https://threadreaderapp.com/thread/1483120233011458048.html){: .btn--research} 
 
 <font size="3">
