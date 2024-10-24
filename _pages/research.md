@@ -19,7 +19,7 @@ ___
 ## <a href="https://arxiv.org/abs/2409.06112" style="text-decoration:none">Optimal In-Kind Redistribution</a> (with <a href="https://www.mitchellwatt.com/" style="text-decoration:none">Mitchell Watt</a>) &nbsp; [PDF](/files/OIKR.pdf){: .btn--research}
 
 <font size="3">
-<b>September 2024</b>
+<b>October 2024</b>
 </font>
 
 <BUTTON ID="abstract_oikr_show" CLASS="btn" ONCLICK="document.getElementById('abstract_oikr_show').style.display='none'; document.getElementById('abstract_oikr_hide').style.display='block'; document.getElementById('abstract_oikr').style.display='block'">
