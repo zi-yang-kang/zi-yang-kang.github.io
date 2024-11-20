@@ -110,12 +110,16 @@ author:
   steam            :
   tumblr           :
   twitter          : #"ZiYangKang"
-  bluesky	   : "ZiYangKang"
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
+  links:
+    - label: "@ZiYangKang"
+      icon: "fab fa-fw fa-bluesky"
+      url: "https://bsky.app/profile/ziyangkang.bsky.social"
+      
 
 
 # Reading Files
