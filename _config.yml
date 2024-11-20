@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter "ZiYangKang"
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -109,7 +109,8 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "ZiYangKang"
+  twitter          : #"ZiYangKang"
+  bluesky	   : "ZiYangKang"
   vine             :
   weibo            :
   xing             :
