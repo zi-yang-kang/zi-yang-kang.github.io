@@ -118,10 +118,6 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  links:
-    - label: "Bluesky"
-      icon: "fa-brands fa-bluesky"
-      url: "https://bsky.app/profile/ZiYangKang.bsky.social"
 
 # Reading Files
 include:
