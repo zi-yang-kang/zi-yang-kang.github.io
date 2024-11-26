@@ -16,6 +16,26 @@ Jump to: &nbsp; <a href="#working-papers" style="text-decoration:none"><b>Workin
 # Working Papers
 ___
 
+## <a href="https://arxiv.org/abs/2409.06112" style="text-decoration:none">Optimal In-Kind Redistribution</a> (with <a href="https://www.mitchellwatt.com/" style="text-decoration:none">Mitchell Watt</a>) &nbsp; [PDF](/files/ORTS.pdf){: .btn--research}
+
+<font size="3">
+<b>November 2024</b>
+</font>
+
+<BUTTON ID="abstract_orts_show" CLASS="btn" ONCLICK="document.getElementById('abstract_orts_show').style.display='none'; document.getElementById('abstract_orts_hide').style.display='block'; document.getElementById('abstract_orts').style.display='block'">
+<i class="fa fa-list-alt" aria-hidden="true"></i>&nbsp; abstract&nbsp;  <i class="fa fa-angle-double-down" aria-hidden="true"></i>
+</BUTTON>
+<BUTTON ID="abstract_orts_hide" CLASS="btn" STYLE="display:none" ONCLICK=" document.getElementById('abstract_orts_show').style.display='block'; document.getElementById('abstract_orts_hide').style.display='none'; document.getElementById('abstract_orts').style.display='none'">
+<i class="fa fa-list-alt" aria-hidden="true"></i>&nbsp; abstract&nbsp;  <i class="fa fa fa-angle-double-up" aria-hidden="true"></i>
+</BUTTON>
+
+<DIV ID="abstract_orts" STYLE="display:none">
+<font size="3">
+In this paper, we develop a model of redistribution where a social planner, seeking to maximize weighted total surplus, can subsidize consumers who participate in a private market. We identify when subsidies can strictly improve upon the laissez-faire outcome, which depends on the correlation between consumers’ demand and need. We characterize the optimal nonlinear subsidy by quantifying when—and for which units of the good—the social planner uses a full subsidy (i.e., free provision) rather than a partial subsidy or no subsidy. Our findings provide justifications for (i) free provision of a baseline quantity and (ii) subsidizing goods for which demand and need are positively correlated.</font>
+</DIV> 
+
+___
+
 ## <a href="https://arxiv.org/abs/2409.06112" style="text-decoration:none">Optimal In-Kind Redistribution</a> (with <a href="https://www.mitchellwatt.com/" style="text-decoration:none">Mitchell Watt</a>) &nbsp; [PDF](/files/OIKR.pdf){: .btn--research}
 
 <font size="3">
