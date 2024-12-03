@@ -16,7 +16,7 @@ Jump to: &nbsp; <a href="#working-papers" style="text-decoration:none"><b>Workin
 # Working Papers
 ___
 
-## <a href="/files/ORTS.pdf" style="text-decoration:none">Optimal Redistribution Through Subsidies</a> (with <a href="https://www.mitchellwatt.com/" style="text-decoration:none">Mitchell Watt</a>) &nbsp; [PDF](/files/ORTS.pdf){: .btn--research}
+## <a href="/files/ORTS.pdf" style="text-decoration:none">Optimal Redistribution Through Subsidies</a> (with <a href="https://www.mitchellwatt.com/" style="text-decoration:none">Mitchell Watt</a>) &nbsp; [PDF](/files/ORTS.pdf){: .btn--research} &nbsp; [Bluesky](https://skyview.social/?url=https://bsky.app/profile/did:plc:qumez67qtaucaiqg2g72fylx/post/3lcgbmgodm22i&viewtype=unroll){: .btn--research} 
 
 <font size="3">
 <b>November 2024</b>
@@ -36,7 +36,7 @@ In this paper, we develop a model of redistribution where a social planner, seek
 
 ___
 
-## <a href="https://arxiv.org/abs/2409.06112" style="text-decoration:none">Optimal In-Kind Redistribution</a> (with <a href="https://www.mitchellwatt.com/" style="text-decoration:none">Mitchell Watt</a>) &nbsp; [PDF](/files/OIKR.pdf){: .btn--research}
+## <a href="https://arxiv.org/abs/2409.06112" style="text-decoration:none">Optimal In-Kind Redistribution</a> (with <a href="https://www.mitchellwatt.com/" style="text-decoration:none">Mitchell Watt</a>) &nbsp; [PDF](/files/OIKR.pdf){: .btn--research}&nbsp; [Bluesky](https://skyview.social/?url=https://bsky.app/profile/did:plc:qumez67qtaucaiqg2g72fylx/post/3lcgbmgodm22i&viewtype=unroll){: .btn--research}
 
 <font size="3">
 <b>October 2024</b>
