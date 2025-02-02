@@ -16,6 +16,26 @@ Jump to: &nbsp; <a href="#working-papers" style="text-decoration:none"><b>Workin
 # Working Papers
 ___
 
+## <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3926399" style="text-decoration:none">Robustness Measures for Welfare Analysis</a> (with <a href="https://shoshanavasserman.com/" style="text-decoration:none">Shosh Vasserman</a>) &nbsp; [PDF](/files/RMWA.pdf){: .btn--research} &nbsp; [NBER](https://www.nber.org/papers/w29656){: .btn--research} &nbsp; [Twitter](https://threadreaderapp.com/thread/1483120233011458048.html){: .btn--research} 
+
+<font size="3">
+<b>August 2024</b>, revision requested at the <em>American Economic Review</em><br>
+</font>
+
+<BUTTON ID="abstract_rbwa_show" CLASS="btn" ONCLICK="document.getElementById('abstract_rbwa_show').style.display='none'; document.getElementById('abstract_rbwa_hide').style.display='block'; document.getElementById('abstract_rbwa').style.display='block'">
+<i class="fa fa-list-alt" aria-hidden="true"></i>&nbsp; abstract&nbsp;  <i class="fa fa-angle-double-down" aria-hidden="true"></i>
+</BUTTON>
+<BUTTON ID="abstract_rbwa_hide" CLASS="btn" STYLE="display:none" ONCLICK=" document.getElementById('abstract_rbwa_show').style.display='block'; document.getElementById('abstract_rbwa_hide').style.display='none'; document.getElementById('abstract_rbwa').style.display='none'">
+<i class="fa fa-list-alt" aria-hidden="true"></i>&nbsp; abstract&nbsp;  <i class="fa fa fa-angle-double-up" aria-hidden="true"></i>
+</BUTTON>
+
+<DIV ID="abstract_rbwa" STYLE="display:none">
+<font size="3">
+Economists routinely make functional form assumptions on demand curves to derive welfare conclusions. How sensitive are these conclusions to such assumptions? In this paper, we develop robustness measures that quantify the extent to which the true demand curve must deviate from common functional form assumptions in order to overturn a welfare conclusion. We parametrize this variability in terms of the gradient and curvature of the demand curve. By leveraging tools from information design, we show that our measures are easy to compute. Our measures are also flexible and easy to use, as we illustrate through empirical applications.</font>
+</DIV> 
+
+___
+
 ## <a href="/files/ORTS.pdf" style="text-decoration:none">Optimal Redistribution Through Subsidies</a> (with <a href="https://www.mitchellwatt.com/" style="text-decoration:none">Mitchell Watt</a>) &nbsp; [PDF](/files/ORTS.pdf){: .btn--research} &nbsp; [Bluesky](https://skyview.social/?url=https://bsky.app/profile/did:plc:qumez67qtaucaiqg2g72fylx/post/3lcgbmgodm22i&viewtype=unroll){: .btn--research} 
 
 <font size="3">
@@ -52,27 +72,7 @@ ___
 <DIV ID="abstract_oikr" STYLE="display:none">
 <font size="3">
 This paper develops a model of in-kind redistribution where consumers participate in either a private market or a government-designed program, but not both.  We characterize when a social planner, seeking to maximize weighted total surplus, can strictly improve upon the laissez-faire outcome.  We show that the optimal mechanism consists of three components: a public option, nonlinear subsidies, and laissez-faire consumption.  We quantify the resulting distortions and relate them to the correlation between consumer demand and welfare weights.  Our findings reveal that while private market access constrains the social planner's ability to redistribute, it also strengthens the rationale for non-market allocations.</font>
-</DIV> 
-
-___
-
-## <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3926399" style="text-decoration:none">Robustness Measures for Welfare Analysis</a> (with <a href="https://shoshanavasserman.com/" style="text-decoration:none">Shosh Vasserman</a>) &nbsp; [PDF](/files/RMWA.pdf){: .btn--research} &nbsp; [NBER](https://www.nber.org/papers/w29656){: .btn--research} &nbsp; [Twitter](https://threadreaderapp.com/thread/1483120233011458048.html){: .btn--research} 
-
-<font size="3">
-<b>August 2024</b>, revision requested at the <em>American Economic Review</em><br>
-</font>
-
-<BUTTON ID="abstract_rbwa_show" CLASS="btn" ONCLICK="document.getElementById('abstract_rbwa_show').style.display='none'; document.getElementById('abstract_rbwa_hide').style.display='block'; document.getElementById('abstract_rbwa').style.display='block'">
-<i class="fa fa-list-alt" aria-hidden="true"></i>&nbsp; abstract&nbsp;  <i class="fa fa-angle-double-down" aria-hidden="true"></i>
-</BUTTON>
-<BUTTON ID="abstract_rbwa_hide" CLASS="btn" STYLE="display:none" ONCLICK=" document.getElementById('abstract_rbwa_show').style.display='block'; document.getElementById('abstract_rbwa_hide').style.display='none'; document.getElementById('abstract_rbwa').style.display='none'">
-<i class="fa fa-list-alt" aria-hidden="true"></i>&nbsp; abstract&nbsp;  <i class="fa fa fa-angle-double-up" aria-hidden="true"></i>
-</BUTTON>
-
-<DIV ID="abstract_rbwa" STYLE="display:none">
-<font size="3">
-Economists routinely make functional form assumptions on demand curves to derive welfare conclusions. How sensitive are these conclusions to such assumptions? In this paper, we develop robustness measures that quantify the extent to which the true demand curve must deviate from common functional form assumptions in order to overturn a welfare conclusion. We parametrize this variability in terms of the gradient and curvature of the demand curve. By leveraging tools from information design, we show that our measures are easy to compute. Our measures are also flexible and easy to use, as we illustrate through several empirical applications.</font>
-</DIV> 
+</DIV>
 
 ___
 
