@@ -19,7 +19,7 @@ ___
 ## <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3926399" style="text-decoration:none">Robustness Measures for Welfare Analysis</a> (with <a href="https://shoshanavasserman.com/" style="text-decoration:none">Shosh Vasserman</a>) &nbsp; [PDF](/files/RMWA.pdf){: .btn--research} &nbsp; [NBER](https://www.nber.org/papers/w29656){: .btn--research} &nbsp; [Twitter](https://threadreaderapp.com/thread/1483120233011458048.html){: .btn--research} 
 
 <font size="3">
-<b>August 2024</b>, revision requested at the <em>American Economic Review</em><br>
+<b>February 2025</b>, revision requested at the <em>American Economic Review</em><br>
 </font>
 
 <BUTTON ID="abstract_rbwa_show" CLASS="btn" ONCLICK="document.getElementById('abstract_rbwa_show').style.display='none'; document.getElementById('abstract_rbwa_hide').style.display='block'; document.getElementById('abstract_rbwa').style.display='block'">
