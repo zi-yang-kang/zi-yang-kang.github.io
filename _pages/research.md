@@ -13,26 +13,34 @@ redirect_from:
 Jump to: &nbsp; <a href="#working-papers" style="text-decoration:none"><b>Working Papers</b></a>&nbsp; \| &nbsp;<a href="#conference-publications" style="text-decoration:none"><b>Conference Publications</b></a>&nbsp; \| &nbsp;<a href="#older-working-papers" style="text-decoration:none"><b>Older Working Papers</b></a>
 {: .notice--danger}
 
-# Working Papers
+
+
+# Publications
 ___
 
-## <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3926399" style="text-decoration:none">Robustness Measures for Welfare Analysis</a> (with <a href="https://shoshanavasserman.com/" style="text-decoration:none">Shosh Vasserman</a>) &nbsp; [PDF](/files/RMWA.pdf){: .btn--research} &nbsp; [NBER](https://www.nber.org/papers/w29656){: .btn--research} &nbsp; [Twitter](https://threadreaderapp.com/thread/1483120233011458048.html){: .btn--research} 
+## <a href="https://doi.org/10.1257/aer.20220673" style="text-decoration:none">Robustness Measures for Welfare Analysis</a> (with <a href="https://shoshanavasserman.com/" style="text-decoration:none">Shosh Vasserman</a>) &nbsp; [Working Paper PDF](/files/RMWA.pdf){: .btn--research} &nbsp; [NBER](https://www.nber.org/papers/w29656){: .btn--research} &nbsp; [Twitter](https://threadreaderapp.com/thread/1951060540421472709.html){: .btn--research}
 
 <font size="3">
-<b>February 2025</b>, forthcoming at the <em>American Economic Review</em><br>
+<em>American Economic Review</em>, <em>115</em>(8), 2449–87.<br>
 </font>
 
-<BUTTON ID="abstract_rbwa_show" CLASS="btn" ONCLICK="document.getElementById('abstract_rbwa_show').style.display='none'; document.getElementById('abstract_rbwa_hide').style.display='block'; document.getElementById('abstract_rbwa').style.display='block'">
+<BUTTON ID="abstract_rmwa_show" CLASS="btn" ONCLICK="document.getElementById('abstract_rmwa_show').style.display='none'; document.getElementById('abstract_rmwa_hide').style.display='block'; document.getElementById('abstract_rmwa').style.display='block'">
 <i class="fa fa-list-alt" aria-hidden="true"></i>&nbsp; abstract&nbsp;  <i class="fa fa-angle-double-down" aria-hidden="true"></i>
 </BUTTON>
-<BUTTON ID="abstract_rbwa_hide" CLASS="btn" STYLE="display:none" ONCLICK=" document.getElementById('abstract_rbwa_show').style.display='block'; document.getElementById('abstract_rbwa_hide').style.display='none'; document.getElementById('abstract_rbwa').style.display='none'">
+<BUTTON ID="abstract_rmwa_hide" CLASS="btn" STYLE="display:none" ONCLICK=" document.getElementById('abstract_rmwa_show').style.display='block'; document.getElementById('abstract_rmwa_hide').style.display='none'; document.getElementById('abstract_rmwa').style.display='none'">
 <i class="fa fa-list-alt" aria-hidden="true"></i>&nbsp; abstract&nbsp;  <i class="fa fa fa-angle-double-up" aria-hidden="true"></i>
 </BUTTON>
 
-<DIV ID="abstract_rbwa" STYLE="display:none">
+<DIV ID="abstract_rmwa" STYLE="display:none">
 <font size="3">
 Economists routinely make functional form assumptions on demand curves to derive welfare conclusions. How sensitive are these conclusions to such assumptions? In this paper, we develop robustness measures that quantify the extent to which the true demand curve must deviate from common functional form assumptions in order to overturn a welfare conclusion. We parametrize this variability in terms of the gradient and curvature of the demand curve. By leveraging tools from information design, we show that our measures are easy to compute. Our measures are also flexible and easy to use, as we illustrate through empirical applications.</font>
 </DIV> 
+
+___
+
+<br><br>
+
+# Working Papers
 
 ___
 
