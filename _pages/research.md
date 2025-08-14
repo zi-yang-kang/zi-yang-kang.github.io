@@ -18,14 +18,10 @@ Jump to: &nbsp; <a href="#publications" style="text-decoration:none"><b>Publicat
 # Publications
 ___
 
-## <a href="https://doi.org/10.1257/aer.20220673" style="text-decoration:none">Robustness Measures for Welfare Analysis</a> (with <a href="https://shoshanavasserman.com/" style="text-decoration:none">Shosh Vasserman</a>) 
-<div style="line-height:150%;">
-    <br>
-</div>
-[Working Paper PDF](/files/RMWA.pdf){: .btn--research} &nbsp; [NBER](https://www.nber.org/papers/w29656){: .btn--research} &nbsp; [Twitter](https://threadreaderapp.com/thread/1951060540421472709.html){: .btn--research}
+## <a href="https://doi.org/10.1257/aer.20220673" style="text-decoration:none">Robustness Measures for Welfare Analysis</a> (with <a href="https://shoshanavasserman.com/" style="text-decoration:none">Shosh Vasserman</a>) [PDF](/files/RMWA.pdf){: .btn--research} &nbsp; [NBER](https://www.nber.org/papers/w29656){: .btn--research} &nbsp; [Twitter](https://threadreaderapp.com/thread/1951060540421472709.html){: .btn--research}
 
 <font size="3">
-<em>American Economic Review</em>, <em>115</em>(8), 2449–87.<br>
+<b>August 2025</b>, <em>American Economic Review</em>, <em>115</em>(8), 2449–87.<br>
 </font>
 
 <BUTTON ID="abstract_rmwa_show" CLASS="btn" ONCLICK="document.getElementById('abstract_rmwa_show').style.display='none'; document.getElementById('abstract_rmwa_hide').style.display='block'; document.getElementById('abstract_rmwa').style.display='block'">
