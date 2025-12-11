@@ -44,6 +44,26 @@ ___
 
 ___
 
+## <a href="/files/PDA.pdf" style="text-decoration:none">Public Displays of Alignment</a> (with <a href="https://www.jorismueller.com/" style="text-decoration:none">Joris Mueller</a>, <a href="https://www.jayawen.com/" style="text-decoration:none">Jaya Wen</a>, and <a href="https://economics.yale.edu/people/cheryl-wu" style="text-decoration:none">Cheryl Wu</a>) &nbsp; [PDF](/files/PDA.pdf){: .btn--research}
+
+<font size="3">
+<b>December 2025</b>
+</font>
+
+<BUTTON ID="abstract_pda_show" CLASS="btn" ONCLICK="document.getElementById('abstract_pda_show').style.display='none'; document.getElementById('abstract_pda_hide').style.display='block'; document.getElementById('abstract_pda').style.display='block'">
+<i class="fa fa-list-alt" aria-hidden="true"></i>&nbsp; abstract&nbsp;  <i class="fa fa-angle-double-down" aria-hidden="true"></i>
+</BUTTON>
+<BUTTON ID="abstract_pda_hide" CLASS="btn" STYLE="display:none" ONCLICK=" document.getElementById('abstract_pda_show').style.display='block'; document.getElementById('abstract_pda_hide').style.display='none'; document.getElementById('abstract_pda').style.display='none'">
+<i class="fa fa-list-alt" aria-hidden="true"></i>&nbsp; abstract&nbsp;  <i class="fa fa fa-angle-double-up" aria-hidden="true"></i>
+</BUTTON>
+
+<DIV ID="abstract_pda" STYLE="display:none">
+<font size="3">
+We study corporate "public alignment": firm speech that echoes the rhetoric of an autocratic regime. We develop a theoretical model in which public alignment sustains political risk-sharing between firms and the regime: by tying their payoffs to the regime's, aligned firms credibly commit to undertake costly, regime-favored actions in adverse states, and in return the regime becomes less likely to expropriate them. We construct an empirical measure of public alignment using a general, replicable index based on regime-specific phrases in annual reports and implement it for Chinese listed firms. We use this to validate both the model's predictions and its key assumption that alignment links firm and regime payoffs. More-aligned firms take more regime-favored actions during periods of unrest and earn lower profits, and alignment increases following heightened expropriation risk. These patterns hold after controlling for other forms of state proximity (state ownership, political connections, and Party cells) and are difficult to reconcile with alternative explanations such as cheap talk or simple patronage.
+</DIV>
+
+___
+
 ## <a href="/files/ORTS.pdf" style="text-decoration:none">Optimal Redistribution Through Subsidies</a> (with <a href="https://www.mitchellwatt.com/" style="text-decoration:none">Mitchell Watt</a>) &nbsp; [PDF](/files/ORTS.pdf){: .btn--research} &nbsp; [Bluesky](https://skyview.social/?url=https://bsky.app/profile/did:plc:qumez67qtaucaiqg2g72fylx/post/3lcgbmgodm22i&viewtype=unroll){: .btn--research} 
 
 <font size="3">
