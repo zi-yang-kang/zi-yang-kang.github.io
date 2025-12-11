@@ -170,7 +170,7 @@ ___
 # Conference Publications
 ___
 
-## <a href="https://arxiv.org/pdf/2107.14327.pdf" style="text-decoration:none">Fixed-Price Approximations in Bilateral Trade</a> (with Francisco Pernice and <a href="https://theory.stanford.edu/~jvondrak/" style="text-decoration:none">Jan Vondr&aacute;k</a>)&nbsp; [PDF](/files/bt.pdf){: .btn--research}
+## <a href="https://arxiv.org/pdf/2107.14327.pdf" style="text-decoration:none">Fixed-Price Approximations in Bilateral Trade</a> (with <a href="https://sites.google.com/view/franciscopernice/home" style="text-decoration:none">Francisco Pernice</a> and <a href="https://theory.stanford.edu/~jvondrak/" style="text-decoration:none">Jan Vondr&aacute;k</a>)&nbsp; [PDF](/files/bt.pdf){: .btn--research}
 
 <font size="3">
 <b>August 2021</b>, in <em>Proceedings of the 2022 Annual ACM–SIAM Symposium on Discrete Algorithms (SODA '22)</em>, pp. 2964–2985.<br>
