@@ -44,6 +44,26 @@ ___
 
 ___
 
+## <a href="/files/RRPQ.pdf" style="text-decoration:none">Robust Regulation: Prices vs. Quantities</a> &nbsp; [PDF](/files/RRPQ.pdf){: .btn--research}
+
+<font size="3">
+<b>January 2026</b>
+</font>
+
+<BUTTON ID="abstract_rrpq_show" CLASS="btn" ONCLICK="document.getElementById('abstract_rrpq_show').style.display='none'; document.getElementById('abstract_rrpq_hide').style.display='block'; document.getElementById('abstract_rrpq').style.display='block'">
+<i class="fa fa-list-alt" aria-hidden="true"></i>&nbsp; abstract&nbsp;  <i class="fa fa-angle-double-down" aria-hidden="true"></i>
+</BUTTON>
+<BUTTON ID="abstract_rrpq_hide" CLASS="btn" STYLE="display:none" ONCLICK=" document.getElementById('abstract_rrpq_show').style.display='block'; document.getElementById('abstract_rrpq_hide').style.display='none'; document.getElementById('abstract_rrpq').style.display='none'">
+<i class="fa fa-list-alt" aria-hidden="true"></i>&nbsp; abstract&nbsp;  <i class="fa fa fa-angle-double-up" aria-hidden="true"></i>
+</BUTTON>
+
+<DIV ID="abstract_rrpq" STYLE="display:none">
+<font size="3">
+This paper studies optimal regulation when a regulator faces uncertainty about how private demand is correlated with social costs. Agents are heterogeneous in both willingness to pay and the externalities they generate, and the regulator evaluates policies by their worst-case welfare performance. When the sign of this correlation is unknown, quantity regulation—such as a quantity ceiling—is uniquely optimal, even among all incentive-compatible policies. When the sign is known, price regulation can be optimal. The framework also applies to regulatory uncertainty and costly screening, providing a welfare-based explanation for the prevalence of non-price policies.</font>
+</DIV>
+
+___
+
 ## <a href="/files/PDA.pdf" style="text-decoration:none">Public Displays of Alignment</a> (with <a href="https://www.jorismueller.com/" style="text-decoration:none">Joris Mueller</a>, <a href="https://www.jayawen.com/" style="text-decoration:none">Jaya Wen</a>, and <a href="https://economics.yale.edu/people/cheryl-wu" style="text-decoration:none">Cheryl Wu</a>) &nbsp; [PDF](/files/PDA.pdf){: .btn--research}
 
 <font size="3">
