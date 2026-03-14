@@ -44,22 +44,22 @@ ___
 
 ___
 
-## <a href="/files/RRPQ.pdf" style="text-decoration:none">Robust Regulation: Prices vs. Quantities</a> &nbsp; [PDF](/files/RRPQ.pdf){: .btn--research}
+## <a href="/files/PQRR.pdf" style="text-decoration:none">Prices vs. Quantities: Robust Regulation</a> &nbsp; [PDF](/files/PQRR.pdf){: .btn--research}
 
 <font size="3">
-<b>January 2026</b>
+<b>March 2026</b>
 </font>
 
-<BUTTON ID="abstract_rrpq_show" CLASS="btn" ONCLICK="document.getElementById('abstract_rrpq_show').style.display='none'; document.getElementById('abstract_rrpq_hide').style.display='block'; document.getElementById('abstract_rrpq').style.display='block'">
+<BUTTON ID="abstract_pqrr_show" CLASS="btn" ONCLICK="document.getElementById('abstract_pqrr_show').style.display='none'; document.getElementById('abstract_pqrr_hide').style.display='block'; document.getElementById('abstract_pqrr').style.display='block'">
 <i class="fa fa-list-alt" aria-hidden="true"></i>&nbsp; abstract&nbsp;  <i class="fa fa-angle-double-down" aria-hidden="true"></i>
 </BUTTON>
-<BUTTON ID="abstract_rrpq_hide" CLASS="btn" STYLE="display:none" ONCLICK=" document.getElementById('abstract_rrpq_show').style.display='block'; document.getElementById('abstract_rrpq_hide').style.display='none'; document.getElementById('abstract_rrpq').style.display='none'">
+<BUTTON ID="abstract_pqrr_hide" CLASS="btn" STYLE="display:none" ONCLICK=" document.getElementById('abstract_pqrr_show').style.display='block'; document.getElementById('abstract_pqrr_hide').style.display='none'; document.getElementById('abstract_pqrr').style.display='none'">
 <i class="fa fa-list-alt" aria-hidden="true"></i>&nbsp; abstract&nbsp;  <i class="fa fa fa-angle-double-up" aria-hidden="true"></i>
 </BUTTON>
 
-<DIV ID="abstract_rrpq" STYLE="display:none">
+<DIV ID="abstract_pqrr" STYLE="display:none">
 <font size="3">
-This paper studies optimal regulation when a regulator faces uncertainty about how private demand is correlated with social costs. Agents are heterogeneous in both willingness to pay and the externalities they generate, and the regulator evaluates policies by their worst-case welfare performance. When the sign of this correlation is unknown, quantity regulation—such as a quantity ceiling—is uniquely optimal, even among all incentive-compatible policies. When the sign is known, price regulation can be optimal. The framework also applies to regulatory uncertainty and costly screening, providing a welfare-based explanation for the prevalence of non-price policies.</font>
+This paper revisits the classic instrument choice problem in a setting with consumption externalities, through the lens of robust mechanism design.  A regulator can implement any incentive-compatible policy but is uncertain about how individual demand is correlated with marginal externalities, and evaluates policies by worst-case welfare.  The optimal policy is a quantity control: a floor for positive externalities and a ceiling for negative externalities.  If the sign of the correlation is known, a uniform tax or subsidy can be optimal.  The framework also applies to regulatory uncertainty and costly screening, providing a welfare-based explanation for the prevalence of non-price policies.</font>
 </DIV>
 
 ___
