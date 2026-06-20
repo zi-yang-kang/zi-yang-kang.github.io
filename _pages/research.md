@@ -44,6 +44,26 @@ ___
 
 ___
 
+## <a href="/files/TUOR.pdf" style="text-decoration:none">Topping Up and Optimal Redistribution</a> (with <a href="https://www.mitchellwatt.com/" style="text-decoration:none">Mitchell Watt</a>) &nbsp; [PDF](/files/TUOR.pdf){: .btn--research}
+
+<font size="3">
+<b>June 2026</b>, subsumes our earlier working papers "<a href="/files/ORTS.pdf" style="text-decoration:none">Optimal Redistribution Through Subsidies</a>" and "<a href="/files/OIKR.pdf" style="text-decoration:none">Optimal In-Kind Redistribution</a>"
+</font>
+
+<BUTTON ID="abstract_tuor_show" CLASS="btn" ONCLICK="document.getElementById('abstract_tuor_show').style.display='none'; document.getElementById('abstract_tuor_hide').style.display='block'; document.getElementById('abstract_tuor').style.display='block'">
+<i class="fa fa-list-alt" aria-hidden="true"></i>&nbsp; abstract&nbsp;  <i class="fa fa-angle-double-down" aria-hidden="true"></i>
+</BUTTON>
+<BUTTON ID="abstract_tuor_hide" CLASS="btn" STYLE="display:none" ONCLICK=" document.getElementById('abstract_tuor_show').style.display='block'; document.getElementById('abstract_tuor_hide').style.display='none'; document.getElementById('abstract_tuor').style.display='none'">
+<i class="fa fa-list-alt" aria-hidden="true"></i>&nbsp; abstract&nbsp;  <i class="fa fa fa-angle-double-up" aria-hidden="true"></i>
+</BUTTON>
+
+<DIV ID="abstract_tuor" STYLE="display:none">
+<font size="3">
+This paper studies how topping up—allowing recipients of in-kind transfers to supplement subsidized consumption in a private market—affects optimal redistribution.  Consumers can access a competitive private market, while a social planner offers an alternative nonlinear price schedule.  We show that the effect of topping up depends on the correlation between redistributive priority and demand. When the correlation is positive, topping up does not affect the optimal mechanism. When the correlation is negative, topping up weakens screening and reduces redistribution.  At the extensive margin, topping up reduces the set of environments in which intervention is optimal.  At the intensive margin, topping up reduces both the scope of a free public option and the mass of consumers served.  We characterize the optimal mechanisms and show how topping up changes comparative statics with respect to redistributive priorities. </font>
+</DIV>
+
+___
+
 ## <a href="/files/PQRR.pdf" style="text-decoration:none">Prices vs. Quantities: Robust Regulation</a> &nbsp; [PDF](/files/PQRR.pdf){: .btn--research}
 
 <font size="3">
@@ -64,7 +84,7 @@ This paper revisits the classic instrument choice problem in a setting with cons
 
 ___
 
-## <a href="/files/PDA.pdf" style="text-decoration:none">Public Displays of Alignment</a> (with <a href="https://www.jorismueller.com/" style="text-decoration:none">Joris Mueller</a>, <a href="https://www.jayawen.com/" style="text-decoration:none">Jaya Wen</a>, and <a href="https://economics.yale.edu/people/cheryl-wu" style="text-decoration:none">Cheryl Wu</a>) &nbsp; [PDF](/files/PDA.pdf){: .btn--research}
+## <a href="/files/PDA.pdf" style="text-decoration:none">Public Displays of Alignment</a> (with <a href="https://www.jorismueller.com/" style="text-decoration:none">Joris Mueller</a>, <a href="https://www.jayawen.com/" style="text-decoration:none">Jaya Wen</a>, and <a href="https://cherylwu3.github.io" style="text-decoration:none">Cheryl Wu</a>) &nbsp; [PDF](/files/PDA.pdf){: .btn--research}
 
 <font size="3">
 <b>December 2025</b>
@@ -84,6 +104,7 @@ We study corporate "public alignment": firm speech that echoes the rhetoric of a
 
 ___
 
+<!--- 
 ## <a href="/files/ORTS.pdf" style="text-decoration:none">Optimal Redistribution Through Subsidies</a> (with <a href="https://www.mitchellwatt.com/" style="text-decoration:none">Mitchell Watt</a>) &nbsp; [PDF](/files/ORTS.pdf){: .btn--research} &nbsp; [Bluesky](https://skyview.social/?url=https://bsky.app/profile/did:plc:qumez67qtaucaiqg2g72fylx/post/3lcgbmgodm22i&viewtype=unroll){: .btn--research} 
 
 <font size="3">
@@ -123,6 +144,7 @@ This paper develops a model of in-kind redistribution where consumers participat
 </DIV>
 
 ___
+-->
 
 ## <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3586050" style="text-decoration:none">Optimal Indirect Regulation of Externalities</a>&nbsp; [PDF](/files/indirect.pdf){: .btn--research} &nbsp; [Slides (short)](/files/OIRE_talk_short.pdf){: .btn--research}
 
@@ -162,6 +184,7 @@ ___
 This paper examines how the equilibrium effects of a public option on the private market impact its optimal design. I develop a model in which a policymaker can choose the quality and allocation of the public option, which affect the prices of private goods (and vice versa) in equilibrium. I demonstrate how these equilibrium effects change both the optimal quality and optimal allocation: they create new incentives to distort quality in either direction depending on the policymaker's redistributive objective and provide a new justification for rationing the public option rather than using market-clearing prices. Finally, I show how my results can accommodate additional frictions in the private market and additional policy instruments.
 </font>
 </DIV> 
+
 ___
 
 ## <a href="/files/contracting.pdf" style="text-decoration:none">Contracting and Vertical Control by a Dominant Platform</a> (with <a href="https://ellenmuir.net/" style="text-decoration:none">Ellen Muir</a>)&nbsp; [PDF](/files/contracting.pdf){: .btn--research}
