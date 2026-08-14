@@ -44,6 +44,26 @@ ___
 
 ___
 
+## <a href="/files/PIP.pdf" style="text-decoration:none">Pareto-Improving Pricing: Why 3 is Better Than 2</a> (with <a href="https://sites.northwestern.edu/dworczak/" style="text-decoration:none">Piotr Dworczak</a>) &nbsp; [PDF](/files/PIP.pdf){: .btn--research}
+
+<font size="3">
+<b>August 2026</b>
+</font>
+
+<BUTTON ID="abstract_pip_show" CLASS="btn" ONCLICK="document.getElementById('abstract_pip_show').style.display='none'; document.getElementById('abstract_pip_hide').style.display='block'; document.getElementById('abstract_pip').style.display='block'">
+<i class="fa fa-list-alt" aria-hidden="true"></i>&nbsp; abstract&nbsp;  <i class="fa fa-angle-double-down" aria-hidden="true"></i>
+</BUTTON>
+<BUTTON ID="abstract_pip_hide" CLASS="btn" STYLE="display:none" ONCLICK=" document.getElementById('abstract_pip_show').style.display='block'; document.getElementById('abstract_pip_hide').style.display='none'; document.getElementById('abstract_pip').style.display='none'">
+<i class="fa fa-list-alt" aria-hidden="true"></i>&nbsp; abstract&nbsp;  <i class="fa fa fa-angle-double-up" aria-hidden="true"></i>
+</BUTTON>
+
+<DIV ID="abstract_pip" STYLE="display:none">
+<font size="3">
+We study the design of priority pricing systems with heterogeneous agents in environments in which improving quality for some agents reduces the average quality that can be provided. Contrary to the equity–efficiency tradeoff emphasized in public debates, we show that under economically natural conditions priority pricing can Pareto-improve on an equal-allocation benchmark. Such an improvement requires at least three priority tiers, combining higher quality for a fee, lower quality with compensation, and an intermediate tier at the benchmark quality; two tiers are never enough. Our results provide a framework for overcoming equity–efficiency tensions in applications such as lane pricing, waiting-line design, public provision, and insurance.</font>
+</DIV>
+
+___
+
 ## <a href="/files/TUOR.pdf" style="text-decoration:none">Topping Up and Optimal Redistribution</a> (with <a href="https://www.mitchellwatt.com/" style="text-decoration:none">Mitchell Watt</a>) &nbsp; [PDF](/files/TUOR.pdf){: .btn--research}
 
 <font size="3">
