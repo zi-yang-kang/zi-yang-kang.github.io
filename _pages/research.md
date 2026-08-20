@@ -44,7 +44,7 @@ ___
 
 ___
 
-## <a href="/files/PIP.pdf" style="text-decoration:none">Pareto-Improving Pricing: Why 3 is Better Than 2</a> (with <a href="https://sites.northwestern.edu/dworczak/" style="text-decoration:none">Piotr Dworczak</a>) &nbsp; [PDF](/files/PIP.pdf){: .btn--research}
+## <a href="/files/PIP.pdf" style="text-decoration:none">Pareto-Improving Pricing: Why 3 Is Better Than 2</a> (with <a href="https://sites.northwestern.edu/dworczak/" style="text-decoration:none">Piotr Dworczak</a>) &nbsp; [PDF](/files/PIP.pdf){: .btn--research}
 
 <font size="3">
 <b>August 2026</b>
