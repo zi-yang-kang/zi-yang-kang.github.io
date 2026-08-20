@@ -64,6 +64,26 @@ We study the design of priority pricing systems with heterogeneous agents in env
 
 ___
 
+## <a href="/files/PDA.pdf" style="text-decoration:none">Public Displays of Alignment</a> (with <a href="https://www.jorismueller.com/" style="text-decoration:none">Joris Mueller</a>, <a href="https://www.jayawen.com/" style="text-decoration:none">Jaya Wen</a>, and <a href="https://cherylwu3.github.io" style="text-decoration:none">Cheryl Wu</a>) &nbsp; [PDF](/files/PDA.pdf){: .btn--research}
+
+<font size="3">
+<b>August 2026</b>
+</font>
+
+<BUTTON ID="abstract_pda_show" CLASS="btn" ONCLICK="document.getElementById('abstract_pda_show').style.display='none'; document.getElementById('abstract_pda_hide').style.display='block'; document.getElementById('abstract_pda').style.display='block'">
+<i class="fa fa-list-alt" aria-hidden="true"></i>&nbsp; abstract&nbsp;  <i class="fa fa-angle-double-down" aria-hidden="true"></i>
+</BUTTON>
+<BUTTON ID="abstract_pda_hide" CLASS="btn" STYLE="display:none" ONCLICK=" document.getElementById('abstract_pda_show').style.display='block'; document.getElementById('abstract_pda_hide').style.display='none'; document.getElementById('abstract_pda').style.display='none'">
+<i class="fa fa-list-alt" aria-hidden="true"></i>&nbsp; abstract&nbsp;  <i class="fa fa fa-angle-double-up" aria-hidden="true"></i>
+</BUTTON>
+
+<DIV ID="abstract_pda" STYLE="display:none">
+<font size="3">
+Why do firms publicly echo government language? Two common explanations are <em>noise</em>, under which alignment is payoff-irrelevant, and <em>government consumption</em>, under which the regime rewards aligned firms because it directly values alignment. We propose a third explanation: the regime can use alignment to screen firms for costly political support. We develop a contracting framework encompassing all three explanations and derive two results. First, absent screening, alignment cannot predict differences in firms' mean payoff responses or costly actions when political stress materializes. Second, under optimal screening, lower-cost firms align, provide greater support, and receive more favorable treatment. We test these predictions using a transparent measure constructed from listed Chinese firms' use of regime-specific phrases in annual reports. More-aligned firms experience larger valuation losses after an adverse political shock and provide costly support by retaining more workers during local labor unrest. Within our framework, these responses rule in a screening role and are consistent with optimal screening.</font>
+</DIV>
+
+___
+
 ## <a href="/files/TUOR.pdf" style="text-decoration:none">Topping Up and Optimal Redistribution</a> (with <a href="https://www.mitchellwatt.com/" style="text-decoration:none">Mitchell Watt</a>) &nbsp; [PDF](/files/TUOR.pdf){: .btn--research}
 
 <font size="3">
@@ -100,26 +120,6 @@ ___
 <DIV ID="abstract_pqrr" STYLE="display:none">
 <font size="3">
 This paper revisits the classic instrument choice problem in a setting with consumption externalities, through the lens of robust mechanism design.  A regulator can implement any incentive-compatible policy but is uncertain about how individual demand is correlated with marginal externalities, and evaluates policies by worst-case welfare.  The optimal policy is a quantity control: a floor for positive externalities and a ceiling for negative externalities.  If the sign of the correlation is known, a uniform tax or subsidy can be optimal.  The framework also applies to regulatory uncertainty and costly screening, providing a welfare-based explanation for the prevalence of non-price policies.</font>
-</DIV>
-
-___
-
-## <a href="/files/PDA.pdf" style="text-decoration:none">Public Displays of Alignment</a> (with <a href="https://www.jorismueller.com/" style="text-decoration:none">Joris Mueller</a>, <a href="https://www.jayawen.com/" style="text-decoration:none">Jaya Wen</a>, and <a href="https://cherylwu3.github.io" style="text-decoration:none">Cheryl Wu</a>) &nbsp; [PDF](/files/PDA.pdf){: .btn--research}
-
-<font size="3">
-<b>December 2025</b>
-</font>
-
-<BUTTON ID="abstract_pda_show" CLASS="btn" ONCLICK="document.getElementById('abstract_pda_show').style.display='none'; document.getElementById('abstract_pda_hide').style.display='block'; document.getElementById('abstract_pda').style.display='block'">
-<i class="fa fa-list-alt" aria-hidden="true"></i>&nbsp; abstract&nbsp;  <i class="fa fa-angle-double-down" aria-hidden="true"></i>
-</BUTTON>
-<BUTTON ID="abstract_pda_hide" CLASS="btn" STYLE="display:none" ONCLICK=" document.getElementById('abstract_pda_show').style.display='block'; document.getElementById('abstract_pda_hide').style.display='none'; document.getElementById('abstract_pda').style.display='none'">
-<i class="fa fa-list-alt" aria-hidden="true"></i>&nbsp; abstract&nbsp;  <i class="fa fa fa-angle-double-up" aria-hidden="true"></i>
-</BUTTON>
-
-<DIV ID="abstract_pda" STYLE="display:none">
-<font size="3">
-We study corporate "public alignment": firm speech that echoes the rhetoric of an autocratic regime. We develop a theoretical model in which public alignment sustains political risk-sharing between firms and the regime: by tying their payoffs to the regime's, aligned firms credibly commit to undertake costly, regime-favored actions in adverse states, and in return the regime becomes less likely to expropriate them. We construct an empirical measure of public alignment using a general, replicable index based on regime-specific phrases in annual reports and implement it for Chinese listed firms. We use this to validate both the model's predictions and its key assumption that alignment links firm and regime payoffs. More-aligned firms take more regime-favored actions during periods of unrest and earn lower profits, and alignment increases following heightened expropriation risk. These patterns hold after controlling for other forms of state proximity (state ownership, political connections, and Party cells) and are difficult to reconcile with alternative explanations such as cheap talk or simple patronage.</font>
 </DIV>
 
 ___
