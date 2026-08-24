@@ -107,7 +107,7 @@ ___
 ## <a href="/files/PQRR.pdf" style="text-decoration:none">Prices vs. Quantities: Robust Regulation</a> &nbsp; [PDF](/files/PQRR.pdf){: .btn--research}
 
 <font size="3">
-<b>March 2026</b>
+<b>March 2026</b>, revision requested at <em>Econometrica</em>
 </font>
 
 <BUTTON ID="abstract_pqrr_show" CLASS="btn" ONCLICK="document.getElementById('abstract_pqrr_show').style.display='none'; document.getElementById('abstract_pqrr_hide').style.display='block'; document.getElementById('abstract_pqrr').style.display='block'">
