@@ -47,7 +47,7 @@ ___
 ## <a href="/files/PIP.pdf" style="text-decoration:none">Pareto-Improving Pricing: Why 3 Is Better Than 2</a> (with <a href="https://pdworczak.com" style="text-decoration:none">Piotr Dworczak</a>) &nbsp; [PDF](/files/PIP.pdf){: .btn--research}
 
 <font size="3">
-<b>August 2026</b>
+<b>September 2026</b>
 </font>
 
 <BUTTON ID="abstract_pip_show" CLASS="btn" ONCLICK="document.getElementById('abstract_pip_show').style.display='none'; document.getElementById('abstract_pip_hide').style.display='block'; document.getElementById('abstract_pip').style.display='block'">
