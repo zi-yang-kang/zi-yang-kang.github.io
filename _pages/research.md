@@ -44,6 +44,26 @@ ___
 
 ___
 
+## <a href="/files/PQRR.pdf" style="text-decoration:none">Prices vs. Quantities: Robust Regulation</a> &nbsp; [PDF](/files/PQRR.pdf){: .btn--research}
+
+<font size="3">
+<b>September 2026</b>, revision requested at <em>Econometrica</em>
+</font>
+
+<BUTTON ID="abstract_pqrr_show" CLASS="btn" ONCLICK="document.getElementById('abstract_pqrr_show').style.display='none'; document.getElementById('abstract_pqrr_hide').style.display='block'; document.getElementById('abstract_pqrr').style.display='block'">
+<i class="fa fa-list-alt" aria-hidden="true"></i>&nbsp; abstract&nbsp;  <i class="fa fa-angle-double-down" aria-hidden="true"></i>
+</BUTTON>
+<BUTTON ID="abstract_pqrr_hide" CLASS="btn" STYLE="display:none" ONCLICK=" document.getElementById('abstract_pqrr_show').style.display='block'; document.getElementById('abstract_pqrr_hide').style.display='none'; document.getElementById('abstract_pqrr').style.display='none'">
+<i class="fa fa-list-alt" aria-hidden="true"></i>&nbsp; abstract&nbsp;  <i class="fa fa fa-angle-double-up" aria-hidden="true"></i>
+</BUTTON>
+
+<DIV ID="abstract_pqrr" STYLE="display:none">
+<font size="3">
+This paper revisits the classic instrument choice problem in a setting with consumption externalities, through the lens of robust mechanism design.  A regulator chooses among all nonlinear pricing schedules to maximize worst-case welfare, knowing the distribution of consumption preferences and the average marginal externality but not the underlying joint distribution.  The optimal policy is a quantity control: a floor for positive externalities and a ceiling for negative externalities.  Knowing whether individuals with stronger consumption preferences tend to generate larger or smaller marginal externalities can instead make a uniform tax or subsidy optimal.  The framework therefore provides a welfare-based rationale for simple forms of price and quantity regulation.</font>
+</DIV>
+
+___
+
 ## <a href="/files/PIP.pdf" style="text-decoration:none">Pareto-Improving Pricing: Why 3 Is Better Than 2</a> (with <a href="https://pdworczak.com" style="text-decoration:none">Piotr Dworczak</a>) &nbsp; [PDF](/files/PIP.pdf){: .btn--research}
 
 <font size="3">
@@ -100,26 +120,6 @@ ___
 <DIV ID="abstract_tuor" STYLE="display:none">
 <font size="3">
 This paper studies how topping up—allowing recipients of in-kind transfers to supplement subsidized consumption in a private market—affects optimal redistribution.  Consumers can access a competitive private market, while a social planner offers an alternative nonlinear price schedule.  We show that the effect of topping up depends on the correlation between redistributive priority and demand. When the correlation is positive, topping up does not affect the optimal mechanism. When the correlation is negative, topping up weakens screening and reduces redistribution.  At the extensive margin, topping up reduces the set of environments in which intervention is optimal.  At the intensive margin, topping up reduces both the scope of a free public option and the mass of consumers served.  We characterize the optimal mechanisms and show how topping up changes comparative statics with respect to redistributive priorities. </font>
-</DIV>
-
-___
-
-## <a href="/files/PQRR.pdf" style="text-decoration:none">Prices vs. Quantities: Robust Regulation</a> &nbsp; [PDF](/files/PQRR.pdf){: .btn--research}
-
-<font size="3">
-<b>March 2026</b>, revision requested at <em>Econometrica</em>
-</font>
-
-<BUTTON ID="abstract_pqrr_show" CLASS="btn" ONCLICK="document.getElementById('abstract_pqrr_show').style.display='none'; document.getElementById('abstract_pqrr_hide').style.display='block'; document.getElementById('abstract_pqrr').style.display='block'">
-<i class="fa fa-list-alt" aria-hidden="true"></i>&nbsp; abstract&nbsp;  <i class="fa fa-angle-double-down" aria-hidden="true"></i>
-</BUTTON>
-<BUTTON ID="abstract_pqrr_hide" CLASS="btn" STYLE="display:none" ONCLICK=" document.getElementById('abstract_pqrr_show').style.display='block'; document.getElementById('abstract_pqrr_hide').style.display='none'; document.getElementById('abstract_pqrr').style.display='none'">
-<i class="fa fa-list-alt" aria-hidden="true"></i>&nbsp; abstract&nbsp;  <i class="fa fa fa-angle-double-up" aria-hidden="true"></i>
-</BUTTON>
-
-<DIV ID="abstract_pqrr" STYLE="display:none">
-<font size="3">
-This paper revisits the classic instrument choice problem in a setting with consumption externalities, through the lens of robust mechanism design.  A regulator can implement any incentive-compatible policy but is uncertain about how individual demand is correlated with marginal externalities, and evaluates policies by worst-case welfare.  The optimal policy is a quantity control: a floor for positive externalities and a ceiling for negative externalities.  If the sign of the correlation is known, a uniform tax or subsidy can be optimal.  The framework also applies to regulatory uncertainty and costly screening, providing a welfare-based explanation for the prevalence of non-price policies.</font>
 </DIV>
 
 ___
